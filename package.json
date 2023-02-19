@@ -1,5 +1,5 @@
 {
-  "name": "terminal-notifier",
+  "name": "node-js-terminal-notifier",
   "version": "0.1.2",
   "main": "terminal-notifier.js"
 }
